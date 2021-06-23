@@ -34,7 +34,7 @@ Dans lequel nous allons faire référence à 3 objets :
 ### Ajout la classe pour parser les fichiers xml des RSS
  Ce fichier va parser le fichier xml des RSS et en extraire les informations dont nous avons besoin à savoir le titre, l'URL de l'image et le lien vers l'article
  
-### Intégration des différents dans MainActivity.java
+### Intégration des différents articles dans MainActivity.java
  * Gestion de l'affichage des articles dans le RecyclerView
  * Initialisation de l'adapter à la liste des articles
  * Gestion du clic sur un des items du Recycler 
