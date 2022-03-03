@@ -42,6 +42,8 @@ Dans lequel nous allons faire référence à 3 objets :
 ### Ajout de la seconde activité
 Cette activité va gérer l'affichage de l'article sélectionné dans le RecyclerView
 
+Ceci est un test
+
  
  
 
